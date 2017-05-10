@@ -1,0 +1,23 @@
+{
+  "name": "react-flow-display",
+  "version": "1.0.0",
+  "description": "Simple widget to show a magnitude with his unit",
+  "main": "src/Flow/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelm3z/react-flow-display.git"
+  },
+  "author": "Manuel Zambrano <mmzmm3z@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelm3z/react-flow-display/issues"
+  },
+  "homepage": "https://github.com/manuelm3z/react-flow-display#readme",
+  "dependencies": {
+    "prop-types": "^15.5.9",
+    "react": "^15.5.4"
+  }
+}
